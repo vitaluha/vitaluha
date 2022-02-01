@@ -8,14 +8,21 @@
  <a href="https://medium.com/@VitaliyMatiyash"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 </p>
 
-----
 
-## My Projects
+### My Talks
+<details>
+  <summary>Dark UX Patterns</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/dark-ux-patterns/images/1_4wLaaa-l_iyML4mqNBX8gw.png">](https://measurecampboard.herokuapp.com/2021?city=Europe)
+  
+</details>
+
+### My Projects
 
 <details>
   <summary>MeasureCamp Columbus Session Board</summary>
   
-  [<img src="http://www.vitaliymatiyash.com/images/projects/measure-camp-session-board.PNG">](https://measurecampboard.herokuapp.com/2021?city=Europe)
+  [<img src="http://www.vitaliymatiyash.com/images/projects/measure-camp-session-board.PNG">](http://www.vitaliymatiyash.com/dark-ux-patterns/index.html)
   
 </details>
 <details>
@@ -41,6 +48,20 @@
   <summary>Farmers Markets Map</summary>
   
   [<img src="http://www.vitaliymatiyash.com/images/projects/farmers-markets-map.PNG">](http://www.vitaliymatiyash.com/datamap/map.html)
+  
+</details>
+
+<details>
+  <summary>Columbus AirBnB</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/images/projects/columbus-airbnb.PNG">](http://www.vitaliymatiyash.com/airbnb/index.html)
+  
+</details>
+
+<details>
+  <summary>Registration and Password Strength Project</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/images/projects/card-lock-unlock.PNG">](https://www.loom.com/share/b2678bd059634ba1b77dcf22330b1e8d)
   
 </details>
 
