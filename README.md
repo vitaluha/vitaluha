@@ -1,4 +1,4 @@
-### Hi, I'm Vitaliy Matiyash 👋
+### Hi, I'm Vitaliy 👋
 
 <p>
   <a href="http://www.vitaliymatiyash.com"><img src="https://sessionize.com/image/75ad-200o200o2-UQKYbsP5udCreAyU5df2CV.jpg" style="border-radius:50%;" height=60></a> 
