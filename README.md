@@ -12,11 +12,18 @@
 
 ## My Projects
 
-### MeasureCamp Columbus Session Board
-[<img src="http://www.vitaliymatiyash.com/images/projects/measure-camp-session-board.PNG">](https://measurecampboard.herokuapp.com/2021?city=Europe)
-
-### Bread Basket
-[<img src="http://www.vitaliymatiyash.com/images/projects/email-insert.png">](http://www.vitaliymatiyash.com/bread-basket/index.html)
+<details>
+  <summary>MeasureCamp Columbus Session Board</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/images/projects/measure-camp-session-board.PNG">](https://measurecampboard.herokuapp.com/2021?city=Europe)
+  
+</details>
+<details>
+  <summary>Bread Basket</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/images/projects/email-insert.png">](http://www.vitaliymatiyash.com/bread-basket/index.html)
+  
+</details>
 
 
 <!--
