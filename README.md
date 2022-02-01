@@ -25,6 +25,25 @@
   
 </details>
 
+<details>
+  <summary>Call Center Map</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/images/projects/call-center-map.PNG">](http://www.vitaliymatiyash.com/call-center-map/index.html)
+  
+</details>
+<details>
+  <summary>Action Item Portal</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/images/projects/action-item-portal.png">](http://www.vitaliymatiyash.com/action-item-portal/index.html)
+  
+</details>
+<details>
+  <summary>Farmers Markets Map</summary>
+  
+  [<img src="http://www.vitaliymatiyash.com/images/projects/farmers-markets-map.PNG">](http://www.vitaliymatiyash.com/datamap/map.html)
+  
+</details>
+
 
 <!--
 **vitaluha/vitaluha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
