@@ -65,6 +65,12 @@
   
 </details>
 
+## Tech
+Angular, jQuery, JavaScript, Typescript, CSS, Sass, Ext JS, Sencha Touch, JSON, AJAX, D3.js,
+Responsive Web Design, Cross Browser/Cross Platform Development, Accessibility,
+Java, Spring MVC, Cassandra, Vaadin, JUnit, Mockito, Maven, Tomcat, Jetty,
+Python, Linux, Apache, MySQL, PHP, Node.js, Jenkins, SonarQube, Git, bash scripting, AWS Cloud, Azure Cloud
+
 
 <!--
 **vitaluha/vitaluha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
