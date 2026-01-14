@@ -14,7 +14,6 @@
 <p align="center">
   <a href="https://www.twitter.com/VitaliyMatiyash"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/vitaliymatiyash"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <a href="https://medium.com/@VitaliyMatiyash"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
   <a href="http://www.vitaliymatiyash.com"><img src="https://img.shields.io/badge/Website-vitaliymatiyash.com-ff6600?style=for-the-badge&logo=google-chrome&logoColor=white" height=25></a>
 </p>
 
