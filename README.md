@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="http://www.vitaliymatiyash.com">
-    <img src="	https://vitaliymatiyash.com/images/me1.jpg" style="border-radius:50%; border: 4px solid #ff6600;" height="150" width="150" alt="Vitaliy Matiyash">
   </a>
 </p>
 
